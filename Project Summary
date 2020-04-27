@@ -1,0 +1,9 @@
+This project includes descriptions of a process for pulling audit files from Google Drive and creating dashboards of student activity in Google Drive and Meet. The goal
+of dashboards is to better understand how students are participating in online learning. And to determine quickly which students are participating
+at low levels to direct intervention efforts.
+
+I'm currently using a simple process of manually downloading audit files from G Suite and maintaining an aggregate file as a g sheet that 
+feeds into a Google Data Studio Dashboard. The dashboard is then shared with School Administrators embedded in a Google Site.
+
+The project is currently under development, with school leaders providing feedback and guidance on the most critical questions dashboads should
+answer and the tasks they should support.
