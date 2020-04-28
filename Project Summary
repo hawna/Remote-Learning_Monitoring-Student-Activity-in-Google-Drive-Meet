@@ -7,3 +7,11 @@ feeds into a Google Data Studio Dashboard. The dashboard is then shared with Sch
 
 The project is currently under development, with school leaders providing feedback and guidance on the most critical questions dashboads should
 answer and the tasks they should support.
+
+Google Admin - Audit Log > Drive
+User, Event Description, Item name, Date, Event Name, Item Type, Owner
+
+Set "Organizational Unit" to Student Permission Group
+Set Dates to relevant range -- Keep in mind that there is a 100,000 row limit to the export tool
+After Download select "Currently Selected Columns"
+
